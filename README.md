@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 My current hobby project: A simple, fast covid-19 vaccine slot finder exclusively for Kerala  https://ajaykumark7.github.io/vaccine-slot-finder-React/
+- 🔭 A simple, fast covid-19 vaccine slot finder exclusively for Kerala(India)  https://ajaykumark7.github.io/vaccine-slot-finder-React/
 - You can find my repos organized by topic on https://github.com/ajaykumark7?tab=projects
